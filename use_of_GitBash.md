@@ -15,6 +15,8 @@
   01、登录你的github，点击头像下的下拉三角——Setting——SSH and GPG keys——New SSH key——输入标题名字(哪一个文件的ssh秘钥)与秘钥
   02、测试使用已经绑定成功：
       在git bash界面输入命令：ssh -T -git@github.com —— 回车 —— 输入yes —— 回车 —— 输入刚刚创建秘钥时设置的密码 —— 回车，
-      提示successfuly即绑定成功了。如下图：
+      提示successfuly即绑定成功了。
+      ![如下图：](https://github.com/George-pig/DD_in_action/blob/master/2019070411152473.png)
+      
       
 
