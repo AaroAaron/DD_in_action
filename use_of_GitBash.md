@@ -51,4 +51,8 @@ $ git commit -m '记录更新'
 $ git push origin master
   在这里登陆你之前注册的GitHub账号之后点击login
 
+8、克隆GitHub作者的内容
+  01、复制作者克隆网址
+  02、打开GitBash，$ cd /E/DD_in_action/文件夹，将位置定位到需要保存的位置
+  03、输入$ git clone https://examples.com
 
